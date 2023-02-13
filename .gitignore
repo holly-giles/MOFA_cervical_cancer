@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Additional files
+inst/ext/reference_matrix_11804cells.txt
