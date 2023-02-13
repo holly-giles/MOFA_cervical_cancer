@@ -1,0 +1,22 @@
+---
+title: "Generate mutli Assay experiment"
+author: "Holly A. R. Giles"
+date: "`r doc_date()`"
+output:
+  BiocStyle::html_document:
+      toc: yes
+      toc_depth: 3
+      toc_float: yes
+      code_folding: "hide" 
+---
+ # Load in files
+ 
+ 
+ # Profile samples
+ 
+ # QC 
+ 
+ 
+ # Genereate mutliAssayExpeirment
+ 
+ # Generate MOFA object 
